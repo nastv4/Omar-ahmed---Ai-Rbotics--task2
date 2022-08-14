@@ -1,2 +1,4 @@
 # Omar-ahmed---Ai-Rbotics--task2
 Programming robot arm package to run and simulate the arm
+\The robot arm has 5 joints only 4 joints can be fully controlled via ROS and Rviz, the last joint (gripper) has a default motion executed from the Arduino code directly.
+At first I downloaded the package in the smart methods github, then I installed the package sequentially as mentioned in the readme file.  At first I had some problems with the installation in terms of kinetic distro, but after I installed noetic distro, the system worked without any problems or errors.  This was the end result (photo attached).  Also, one of the group members helped me in the steps of using the codes, and I am very grateful to him, and whoever does not thank people does not thank God.![1](https://user-images.githubusercontent.com/108282195/184553948-5d463674-693e-4aa9-b65d-39093c0491f4.jpg)
